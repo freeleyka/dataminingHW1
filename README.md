@@ -7,10 +7,8 @@
 - Jupyter Notebook
 - Anaconda Navigator
 - Python 3
-- NumPy
 - Pandas
 - scikit-learn
-- Matplotlib
 - Seaborn 
 
 ## How to Run
