@@ -16,7 +16,7 @@
 1. Open Anaconda Navigator.
 2. Launch Jupyter Notebook.
 3. Open the FreeleyHW1.ipynb notebook.
-4. Ensure the required dataset is in the appropriate directory (modify the path shortcut if necessary).
+4. Ensure the required dataset is in the appropriate directory.
 5. Run the notebook cells from beginning to end.
 
 ## Dataset
